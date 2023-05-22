@@ -16,5 +16,5 @@ Software developed in 2001-2003 using Delphi (Object-Pascal) language.
 
 Presidente Prudente, SP, Brazil
 
-SENAI - Serviço Nacional de Aprendizagem Industrial
+[SENAI, "Santo Paschoal Crepaldi" - Serviço Nacional de Aprendizagem Industrial](https://presidenteprudente.sp.senai.br/)
 
